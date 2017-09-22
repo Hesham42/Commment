@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495E</color>
+    <color name="colorPrimaryDark">#212F3D</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_edittext">#5D6D7E</color>
+    <color name="edittext_background">#F5F5F5</color>
+    <color name="chat_screen_color">#34495E</color>
+    <color name="bg_color_sent_msg">#FBFCFC</color>
+</resources>
